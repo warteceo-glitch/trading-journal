@@ -1,2 +1,17 @@
-
-<> Code → Codespaces → Create codespace on main
+Date,Pair,Position,Entry_Price,Exit_Price,Quantity
+12/1/2025,BTC/USDT,Long,57000,57200,0.1
+12/1/2025,ETH/USDT,Short,4200,4180,0.5
+12/2/2025,BTC/USDT,Long,57500,58000,0.2
+12/2/2025,ETH/USDT,Long,4300,4350,0.3
+12/3/2025,BTC/USDT,Short,56500,56000,0.15
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
